@@ -1,5 +1,7 @@
 # MachineLearning
 
-The file was created in Jupyter Notebook and is recommended to be run in such.
+The file was created in Jupyter Notebook and is recommended to be viewed there as well. All output is shown.
 
-Save the .tz file into a repository and edit the location in cell 5.
+HTML is provided for viewing as well.
+
+
